@@ -114,6 +114,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     url: "https://twitter.com/FengIves",
     icon: "https://shop.blueshirtai.com/assets/cache/images/202401261815375646879.jpg",
   },
+  {
+    sortId: 5,
+    title: "Blog",
+    description: "IvesFeng的Blog",
+    url: "https://ivesfeng.com/",
+    icon: "https://www.ivesfeng.com/favicon.jpg",
+  },
 ];
 
 const GLOBAL_CONFIG = {
