@@ -201,7 +201,7 @@ const GLOBAL_CONFIG = {
     "Welcome, my friend!",
     "Hello, lovely soul!",
     "嗨，别来无恙",
-    "不脚步悄然，来临这片风景",
+    "脚步悄然，来临这片风景",
     "欢迎来到这片奇妙的土地",
     "流星，落花，萤火",
     "马车越空，晃荡越响",
