@@ -97,7 +97,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "绘图白板",
     description: "绘图白板",
-    url: ""https://draw.blueshirttools.com/",
+    url: "https://draw.blueshirttools.com/",
     icon: "",
   },
   {
