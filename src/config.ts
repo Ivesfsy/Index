@@ -61,6 +61,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
   {
     sortId: 1,
+    title: "AI共享账号",
+    description: "ChatGPT共享质保低价账号",
+    url: "https://chat.blueshirtai.com/",
+    icon: "https://shop.blueshirtai.com/favicon.ico",
+  },
+  {
+    sortId: 1,
     title: "网盘系统",
     description: "cloudreve网盘系统",
     url: "https://blueshirtai.com/",
