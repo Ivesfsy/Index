@@ -63,7 +63,14 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "网盘系统",
     description: "cloudreve网盘系统",
     url: "https://blueshirtai.com/",
-    icon: "https://raw.githubusercontent.com/cloudreve/frontend/master/public/static/img/logo192.png",
+    icon: "https://img0.baidu.com/it/u=282127479,1728047395&fm=253&fmt=auto&app=138&f=PNG?w=256&h=256",
+  },
+  {
+    sortId: 1,
+    title: "渗透工具箱",
+    description: "各类小工具",
+    url: "https://tool.blueshirttools.com/",
+    icon: "https://www.bluelsqkj.com/wp-content/uploads/2022/11/微信图片_20211125124808.png",
   },
   {
     sortId: 1,
