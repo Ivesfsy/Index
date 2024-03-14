@@ -173,14 +173,14 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
   {
     sortId: 7,
-    title: "ShirtAI",
+    title: "ShirtAI产品文档",
     description: "人工智能平台",
     url: "https://docs.blueshirttools.com/",
     icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
   },
    {
     sortId: 7,
-    title: "蓝衫lobe-chat",
+    title: "蓝衫lobe-chat产品文档",
     description: "人工智能平台",
     url: "https://docs.blueshirtai.com/",
     icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
