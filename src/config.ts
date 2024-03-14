@@ -190,7 +190,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "蓝衫lobe-chat产品文档",
     description: "人工智能平台",
     url: "https://docs.blueshirtai.com/",
-    icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
+    icon: "https://www.bluelsqkj.com/wp-content/uploads/2022/11/微信图片_20211125124808.png",
   },
 ];
 
