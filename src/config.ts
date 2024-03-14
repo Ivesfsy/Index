@@ -5,6 +5,7 @@ const WEBSITE_SORTS: WebsiteSort[] = [
   { id: 4, title: "个人Github项目" },
   { id: 5, title: "个人媒体平台" },
   { id: 6, title: "友情链接" },
+  { id: 7, title: "产品文档" },
 ];
 
 const WEBSITE_ITEMS: WebsiteItem[] = [
@@ -169,6 +170,20 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     description: "IvesFeng的Blog",
     url: "https://ivesfeng.com/",
     icon: "https://www.ivesfeng.com/favicon.jpg",
+  },
+  {
+    sortId: 7,
+    title: "ShirtAI",
+    description: "人工智能平台",
+    url: "https://docs.blueshirttools.com/",
+    icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
+  },
+   {
+    sortId: 7,
+    title: "蓝衫lobe-chat",
+    description: "人工智能平台",
+    url: "https://docs.blueshirtai.com/",
+    icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
   },
 ];
 
