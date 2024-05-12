@@ -19,6 +19,21 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
   {
     sortId: 1,
+    title: "AI搜索",
+    description: "基于大模型的AI搜索",
+    url: "https://sou.blueshirttools.com",
+    icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
+  },
+  {
+    sortId: 1,
+    title: "GPT元宇宙",
+    description: "GPT元宇宙1：1还原ChatGPT官网，无需🪜，账号独立，对话数据隔离、保障隐私安全，买多久用多久！",
+    url: "https://www.myshirtai.com/",
+    icon: "https://www.mygptmeta.com/wp-content/uploads/2024/04/cropped-GPT-Meta%E6%8A%A0%E5%9B%BE-72x72.png",
+    color: "#0171CD",
+  },
+  {
+    sortId: 1,
     title: "GPT Prompt",
     description: "GPT提示词库",
     url: "https://prompt.blueshirtai.com/",
@@ -142,6 +157,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     description: "人工智能平台",
     url: "https://www.blueshirtai.com/f/3kIo/ShirtAI-Macos.zip",
     icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
+  },
+  {
+    sortId: 2,
+    title: "GPT元宇宙 APP",
+    description: "人工智能平台",
+    url: "https://www.blueios.com",
+    icon: "https://www.mygptmeta.com/wp-content/uploads/2024/04/cropped-GPT-Meta%E6%8A%A0%E5%9B%BE-72x72.png",
   },
   {
     sortId: 4,
