@@ -76,10 +76,10 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
   {
     sortId: 1,
-    title: "AI共享账号",
-    description: "ChatGPT共享质保低价账号",
-    url: "https://chat.blueshirtai.com/",
-    icon: "https://shop.blueshirtai.com/favicon.ico",
+    title: "ShirtAI API",
+    description: "支持gpt-4-all、gpt-4-多模态、gpt-4-gizmo-*等;我们提供高质量、易用性强的API服务；满足业务需求;当前汇率：1:1",
+    url: "https://www.blueshirtmap.com/",
+    icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
   },
   {
     sortId: 1,
@@ -206,6 +206,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     description: "人工智能平台",
     url: "https://docs.blueshirttools.com/",
     icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
+  },
+  {
+    sortId: 7,
+    title: "GPT元宇宙产品文档",
+    description: "GPT元宇宙1：1还原ChatGPT官网，无需🪜，账号独立，对话数据隔离、保障隐私安全，买多久用多久！",
+    url: "https://doc.blueshirtai.com/",
+    icon: "https://www.mygptmeta.com/wp-content/uploads/2024/04/cropped-GPT-Meta%E6%8A%A0%E5%9B%BE-72x72.png",
   },
    {
     sortId: 7,
