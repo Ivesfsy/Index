@@ -106,7 +106,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "PDF工具箱",
     description: "PDF工具箱",
-    url: "pdf.blueshirtmap.com",
+    url: "https://pdf.blueshirtmap.com/",
     icon: "",
   },
   {
