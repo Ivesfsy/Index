@@ -76,9 +76,9 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
   {
     sortId: 1,
-    title: "ShirtAI API",
+    title: "GPTMeta API",
     description: "支持gpt-4-all、gpt-4-多模态、gpt-4-gizmo-*等;我们提供高质量、易用性强的API服务；满足业务需求;当前汇率：1:1",
-    url: "https://www.blueshirtmap.com/",
+    url: "https://api.mygptmeta.com/",
     icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
   },
   {
