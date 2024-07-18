@@ -37,14 +37,14 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "GPT Prompt",
     description: "GPT提示词库",
     url: "https://prompt.blueshirtmap.com/",
-    icon: "https://shop.blueshirtai.com/assets/cache/images/202401261711529757259.png",
+    icon: "https://pnghive.com/core/images/full/chat-gpt-logo-png-1680405922.png",
   },
   {
     sortId: 1,
     title: "MJ辅助提示词",
     description: "MJ辅助创作工具",
     url: "https://draw.blueshirtmap.com/",
-    icon: "https://shop.blueshirtai.com/assets/cache/images/202401261723487242956.jpg",
+    icon: "https://th.bing.com/th/id/OIP.NGyj677qi24rtdapk3-q3QHaHa?rs=1&pid=ImgDetMain",
   },
   {
     sortId: 1,
@@ -72,7 +72,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "凤灵阁AI商店",
     description: "售卖各种AI产品",
     url: "https://shop.blueshirtmap.com/",
-    icon: "https://shop.blueshirtai.com/favicon.ico",
+    icon: "https://shop.blueshirtmap.com/favicon.ico",
   },
   {
     sortId: 1,
