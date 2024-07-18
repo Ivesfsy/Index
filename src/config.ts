@@ -29,7 +29,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "GPT元宇宙",
     description: "GPT元宇宙1：1还原ChatGPT官网，无需🪜，账号独立，对话数据隔离、保障隐私安全，买多久用多久！",
     url: "https://www.mygptmeta.com/",
-    icon: "https://www.mygptmeta.com/wp-content/uploads/2024/04/cropped-GPT-Meta%E6%8A%A0%E5%9B%BE-72x72.png",
+    icon: "https://www.mygptmeta.com/wp-content/uploads/2024/04/cropped-GPT-Meta-1.png",
     color: "#0171CD",
   },
   {
@@ -79,7 +79,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "GPTMeta API",
     description: "支持gpt-4-all、gpt-4-多模态、gpt-4-gizmo-*等;我们提供高质量、易用性强的API服务；满足业务需求;当前汇率：1:1",
     url: "https://api.mygptmeta.com/",
-    icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
+    icon: "https://www.mygptmeta.com/wp-content/uploads/2024/04/cropped-GPT-Meta-1.png",
   },
   {
     sortId: 1,
