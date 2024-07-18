@@ -19,16 +19,16 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
   {
     sortId: 1,
-    title: "AI搜索",
-    description: "基于大模型的AI搜索",
-    url: "https://sou.blueshirttools.com",
-    icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
+    title: "Claude元宇宙",
+    description: "基于ClaudeAI的1：1还原官网，无需🪜，账号独立，对话数据隔离、保障隐私安全，买多久用多久的产品",
+    url: "https://claude.mygptmeta.com/",
+    icon: "https://claude.mygptmeta.com/wp-content/uploads/2024/07/88f633358380117da7a1bf1fa99763b7.png",
   },
   {
     sortId: 1,
     title: "GPT元宇宙",
     description: "GPT元宇宙1：1还原ChatGPT官网，无需🪜，账号独立，对话数据隔离、保障隐私安全，买多久用多久！",
-    url: "https://www.myshirtai.com/",
+    url: "https://www.mygptmeta.com/",
     icon: "https://www.mygptmeta.com/wp-content/uploads/2024/04/cropped-GPT-Meta%E6%8A%A0%E5%9B%BE-72x72.png",
     color: "#0171CD",
   },
@@ -36,7 +36,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "GPT Prompt",
     description: "GPT提示词库",
-    url: "https://prompt.blueshirtai.com/",
+    url: "https://prompt.blueshirtmap.com/",
     icon: "https://shop.blueshirtai.com/assets/cache/images/202401261711529757259.png",
   },
   {
@@ -71,7 +71,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "凤灵阁AI商店",
     description: "售卖各种AI产品",
-    url: "https://shop.blueshirtai.com/",
+    url: "https://shop.blueshirtmap.com/",
     icon: "https://shop.blueshirtai.com/favicon.ico",
   },
   {
@@ -85,22 +85,8 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "网盘系统",
     description: "cloudreve网盘系统",
-    url: "https://blueshirtai.com/",
+    url: "https://cloudreve.blueshirtmap.com/",
     icon: "https://img0.baidu.com/it/u=282127479,1728047395&fm=253&fmt=auto&app=138&f=PNG?w=256&h=256",
-  },
-  {
-    sortId: 1,
-    title: "渗透工具箱",
-    description: "各类小工具",
-    url: "https://tool.blueshirttools.com/",
-    icon: "https://www.bluelsqkj.com/wp-content/uploads/2022/11/微信图片_20211125124808.png",
-  },
-  {
-    sortId: 1,
-    title: "渗透搜索",
-    description: "渗透搜索",
-    url: "https://www.bluelsqkj.com/permeation",
-    icon: "",
   },
   {
     sortId: 1,
@@ -110,31 +96,10 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     icon: "",
   },
   {
-    sortId: 1,
-    title: "思维导图",
-    description: "思维导图工具",
-    url: "https://www.bluelsqkj.com/mindmap",
-    icon: "",
-  },
-  {
-    sortId: 1,
-    title: "待办事项",
-    description: "待办事项",
-    url: "https://todo.blueshirttools.com/",
-    icon: "",
-  },
-  {
-    sortId: 1,
-    title: "绘图白板",
-    description: "绘图白板",
-    url: "https://draw.blueshirttools.com/",
-    icon: "",
-  },
-  {
     sortId: 2,
     title: "ShirtAI Android",
     description: "人工智能平台",
-    url: "https://www.blueshirtai.com/f/deCD/ShirtAI.apk",
+    url: "https://cloudreve.blueshirtmap.com/f/VZS9/ShirtAI.apk",
     icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
   },
   {
@@ -148,7 +113,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 2,
     title: "ShirtAI Windows",
     description: "人工智能平台",
-    url: "https://www.blueshirtai.com/f/x6tD/%E6%B8%97%E9%80%8F%E6%99%BA%E8%83%BD%20-%20ShirtAI%20windows-.zip",
+    url: "https://cloudreve.blueshirtmap.com/f/71i7/CujvcRyj_ShirtAI-win32-x64.zip",
     icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
   },
   {
@@ -156,13 +121,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "ShirtAI Macos",
     description: "人工智能平台",
     url: "https://www.blueshirtai.com/f/3kIo/ShirtAI-Macos.zip",
-    icon: "https://lsshirtai.com/file/upload/2023/12/17/1736222688013193216.png",
+    icon: "https://cloudreve.blueshirtmap.com/f/RKCW/RDa2yqzt_ShirtAI-Macos.zip",
   },
   {
     sortId: 2,
     title: "GPT元宇宙 APP",
     description: "人工智能平台",
-    url: "https://www.blueios.com",
+    url: "https://download.blueshirtmap.com",
     icon: "https://www.mygptmeta.com/wp-content/uploads/2024/04/cropped-GPT-Meta%E6%8A%A0%E5%9B%BE-72x72.png",
   },
   {
@@ -188,17 +153,10 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
   {
     sortId: 5,
-    title: "Twitter",
+    title: "X",
     description: "IvesFeng的Twitter",
     url: "https://twitter.com/FengIves",
-    icon: "https://shop.blueshirtai.com/assets/cache/images/202401261815375646879.jpg",
-  },
-  {
-    sortId: 5,
-    title: "Blog",
-    description: "IvesFeng的Blog",
-    url: "https://ivesfeng.com/",
-    icon: "https://www.ivesfeng.com/favicon.jpg",
+    icon: "https://claude.mygptmeta.com/wp-content/uploads/2024/07/R.jpg",
   },
   {
     sortId: 7,
@@ -216,6 +174,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
    {
     sortId: 7,
+    title: "Claude元宇宙产品文档",
+    description: "基于ClaudeAI的1：1还原官网，无需🪜，账号独立，对话数据隔离、保障隐私安全，买多久用多久的产品",
+    url: "https://claude-docs.mygptmeta.com/",
+    icon: "https://claude.mygptmeta.com/wp-content/uploads/2024/07/88f633358380117da7a1bf1fa99763b7.png",
+  },
+   {
+    sortId: 7,
     title: "蓝衫lobe-chat产品文档",
     description: "人工智能平台",
     url: "https://docs.blueshirtai.com/",
@@ -227,15 +192,15 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "IvesFeng-Blog",
+  BLOG_NAME: "IvesFeng的优质产品",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://ivesfeng.com",
+  BLOG_URL: "https://link3.cc/ives",
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://www.ivesfeng.com/static/img/1496e5b9e3ae411b606f797b0932a02a.%C3%A5%C2%93%C2%88%C3%A5%C2%A7%C2%86%C3%AF%C2%BC%C2%8C.webp",
+  LOGO_URL: "https://www.myshirtai.com/wp-content/uploads/2024/07/哈姆，.jpg",
   /**
    * 个人 Github 链接
    */
@@ -243,7 +208,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "https://fsyives.oss-cn-beijing.aliyuncs.com/draw/mj/origin/0b4eb2216e714326c073805cbed6aeef.png",
+  BACKGROUND_IMG_URL: "https://www.myshirtai.com/wp-content/uploads/2024/07/0b4eb2216e714326c073805cbed6aeef.png",
   /**
    * ICP 备案号，留空不显示
    */
