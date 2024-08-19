@@ -19,6 +19,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   },
   {
     sortId: 1,
+    title: "AI云原生",
+    description: "基于GPT和ClaudeAI的1：1还原官网，无需🪜，账号独立，对话数据隔离、保障隐私安全，买多久用多久的产品",
+    url: "https://aicloud.mygptmeta.com/",
+    icon: "https://yun.blueshirtmap.com/public/uploads/20240818/d3iw5b5716xywtviug.png",
+  },
+  {
+    sortId: 1,
     title: "Claude元宇宙",
     description: "基于ClaudeAI的1：1还原官网，无需🪜，账号独立，对话数据隔离、保障隐私安全，买多久用多久的产品",
     url: "https://claude.mygptmeta.com/",
